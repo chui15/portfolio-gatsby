@@ -38,13 +38,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Christie Hui`,
+        name: `Christie Hui, Developer`,
         short_name: `Resume on the Web`,
         start_url: `/`,
         background_color: fullConfig.theme.colors.white,
         theme_color: fullConfig.theme.colors.white,
         display: `standalone`,
-        icon: `src/images/icon.png`,
+        icon: `src/images/favicon.png`,
         cache_busting_mode: `none`,
       },
     },
