@@ -12,7 +12,7 @@ const Navigation = () => {
   const { dark, toggleDark } = useContext(ThemeContext);
   const data = useStaticQuery(graphql`
     query {
-      icon: file(relativePath: { eq: "icon.png" }) {
+      icon: file(relativePath: { eq: "favicon.png" }) {
         childImageSharp {
           fixed(width: 32, height: 32) {
             ...GatsbyImageSharpFixed_withWebp
@@ -68,7 +68,7 @@ const Navigation = () => {
       <div
         className="flex-center cursor-pointer"
         onClick={scrollToTop}
-        data-tip="Go to Top"
+        data-tip="Return to Top"
         data-place="right"
       >
         <GatsbyImage className="grayscale" {...data.icon.childImageSharp} />

@@ -17,7 +17,7 @@
 
 @screen lg {
   .project {
-    min-width: 340px;
-    max-width: 340px;
+    min-width: 420px;
+    max-width: 420px;
   }
 }
