@@ -6,16 +6,16 @@ const fullConfig = resolveConfig(tailwindConfig);
 
 module.exports = {
   siteMetadata: {
-    title: `Amruth Pillai's Resume on the Web`,
-    description: `Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!`,
-    author: `Amruth Pillai`,
-    siteUrl: `https://amruthpillai.com`,
+    title: `Christie Hui`,
+    description: `My personal portfolio site`,
+    author: `Christie Hui`,
+    siteUrl: `https://christiehui.com`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://amruthpillai.com`,
+        siteUrl: `https://christiehui.com`,
       },
     },
     {
@@ -28,8 +28,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: `https://amruthpillai.com`,
-        sitemap: `https://amruthpillai.com/sitemap.xml`,
+        host: `https://christiehui.com`,
+        sitemap: `https://christiehui.com/sitemap.xml`,
         policy: [{ userAgent: `*`, allow: `/` }],
       },
     },
@@ -38,7 +38,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Amruth Pillai's Resume on the Web`,
+        name: `Christie Hui`,
         short_name: `Resume on the Web`,
         start_url: `/`,
         background_color: fullConfig.theme.colors.white,

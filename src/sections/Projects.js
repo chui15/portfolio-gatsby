@@ -105,8 +105,8 @@ const Projects = () => {
       <Button
         className="mt-6"
         icon={FaGithub}
-        title="Projects on GitHub"
-        onClick={() => window.open("https://pillai.xyz/github", "_blank")}
+        title="Check Out My GitHub Here!"
+        onClick={() => window.open("https://github.com/chui15", "_blank")}
       />
     </section>
   );

@@ -3,7 +3,7 @@ import GatsbyImage from "gatsby-image";
 import React, { useContext, useState } from "react";
 import ReactTooltip from "react-tooltip";
 import Heading from "../components/Heading";
-import { MdLocationOn, MdMoreHoriz, MdWork } from "../components/Icons";
+import { MdMoreHoriz, MdWork } from "../components/Icons";
 import ThemeContext from "../context/ThemeContext";
 
 const Work = () => {
@@ -18,8 +18,6 @@ const Work = () => {
             title
             subtitle
             period
-            location
-            specialization
             icon {
               childImageSharp {
                 fixed(height: 32) {
@@ -36,15 +34,6 @@ const Work = () => {
   return (
     <section id="work">
       <Heading icon={MdWork} title="Work" />
-
-      <div className="bg-primary-800 text-white rounded p-6 mb-8 lg:mr-12">
-        I had a job opportunity with a company in Berlin, but they had to
-        regrettably withdraw their offer because of the ongoing economic turmoil
-        due to the COVID19 Pandemic, so if you or your company is hiring, please
-        contact me at{" "}
-        <a href="emailto:im.amruth@gmail.com">im.amruth@gmail.com</a> or send me
-        a message using the <a href="#contact">contact form</a> below.
-      </div>
 
       <div className="flex">
         <div className="w-1 bg-gray-500 rounded-full md:ml-6 opacity-25" />
@@ -77,15 +66,6 @@ const Work = () => {
                     <h6 className="text-xs ml-2">({node.period})</h6>
                   </div>
                   <h6 className="text-sm">{node.subtitle}</h6>
-                  <div className="mt-2 flex items-center">
-                    <MdLocationOn size="0.75rem" />
-                    <h6 className="font-semibold text-xs ml-2">
-                      {node.location}
-                    </h6>
-                  </div>
-                  <h6 className="text-xs mt-2">
-                    <strong>Specialized in:</strong> {node.specialization}
-                  </h6>
                 </div>
               </div>
             );

@@ -2,61 +2,41 @@
   {
     "icon": "../images/skills/web.png",
     "name": "Web Design & Development",
-    "tech": "HTML/CSS/Javascript"
+    "tech": "HTML, CSS, Javascript, jQuery, Bootstrap"
   },
   {
-    "icon": "../images/skills/angular.png",
+    "icon": "../images/skills/reactlogo.png",
     "name": "Frontend Javascript Frameworks",
-    "tech": "AngularJS/Angular 9/React/Vue.js/Svelte"
+    "tech": "React.js, Vue.js"
   },
   {
     "icon": "../images/skills/nodejs.png",
     "name": "Backend Javascript Frameworks",
-    "tech": "Node.js/Express.js/Mongoose"
+    "tech": "Node.js, Express.js"
   },
   {
-    "icon": "../images/skills/flutter.png",
-    "name": "Cross Platform App Development",
-    "tech": "Dart/Flutter/Firebase"
-  },
-  {
-    "icon": "../images/skills/python.png",
-    "name": "Python Scripting",
-    "tech": "Python 3/BeautifulSoup/PyMongo"
+    "icon": "../images/skills/php.png",
+    "name": "Scripting",
+    "tech": "PHP, Axios, AJAX"
   },
   {
     "icon": "../images/skills/database.png",
     "name": "Database Management System",
-    "tech": "MySQL/Postgres/MongoDB"
-  },
-  {
-    "icon": "../images/skills/android.png",
-    "name": "Android App Development",
-    "tech": "Android Studio/Java/Kotlin/XML"
+    "tech": "MySQL, PostgreSQL"
   },
   {
     "icon": "../images/skills/sketch.png",
     "name": "UI/UX Design",
-    "tech": "Adobe XD/Figma/Sketch"
-  },
-  {
-    "icon": "../images/skills/tensorflow.png",
-    "name": "Machine Learning",
-    "tech": "Scikit-Learn/TensorFlow/Keras"
-  },
-  {
-    "icon": "../images/skills/seo.png",
-    "name": "Search Engine Optimization",
-    "tech": "PageRank/Backlinks/Google Analytics"
+    "tech": "Figma, Procreate"
   },
   {
     "icon": "../images/skills/photography.png",
-    "name": "Photography & Cinematography",
-    "tech": "Adobe Photoshop/Lightroom"
+    "name": "Adobe Creative Suite",
+    "tech": "Adobe Photoshop, Adobe Lightroom"
   },
   {
-    "icon": "../images/skills/fcpx.png",
-    "name": "Photo & Video Post-Processing",
-    "tech": "Adobe After Effects/Final Cut Pro X"
+    "icon": "../images/skills/seo.png",
+    "name": "Tools",
+    "tech": "Postman, DBDesigner"
   }
 ]

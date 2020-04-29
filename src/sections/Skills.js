@@ -28,7 +28,7 @@ const Skills = () => {
   `);
   return (
     <section id="skills">
-      <Heading icon={GoTools} title="Skills" />
+      <Heading icon={GoTools} title="Technical Skills" />
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {data.allSkillsJson.edges.map(({ node }, index) => (
@@ -45,14 +45,14 @@ const Skills = () => {
                 {...node.icon.childImageSharp}
               />
               <div>
-                <h6 className="text-xs font-semibold leading-none">
+                <h6 className="text-s font-semibold leading-none">
                   {node.name}
                 </h6>
                 <h6
                   className="mt-2 leading-none"
-                  style={{ fontSize: "0.65rem" }}
+                  style={{ fontSize: "0.9rem" }}
                 >
-                  ({node.tech})
+                  {node.tech}
                 </h6>
               </div>
             </div>

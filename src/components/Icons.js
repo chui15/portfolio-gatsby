@@ -13,6 +13,7 @@ import {
   FaInstagram,
   FaLink,
   FaLinkedinIn,
+  FaPhoneAlt,
   FaSignLanguage,
   FaStar,
   FaTwitter,
@@ -27,6 +28,7 @@ import {
 } from "react-icons/io";
 import {
   MdLocationOn,
+  MdMail,
   MdMenu,
   MdMoreHoriz,
   MdPerson,
@@ -50,6 +52,7 @@ export {
   FaInstagram,
   FaLink,
   FaLinkedinIn,
+  FaPhoneAlt,
   FaSignLanguage,
   FaStar,
   FaTwitter,
@@ -60,6 +63,7 @@ export {
   IoIosPaperPlane,
   IoIosSunny,
   MdLocationOn,
+  MdMail,
   MdMenu,
   MdMoreHoriz,
   MdPerson,

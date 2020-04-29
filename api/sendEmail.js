@@ -7,8 +7,8 @@ module.exports = (req, res) => {
 
   const msg = {
     to: {
-      name: "Amruth Pillai",
-      email: "im.amruth@gmail.com",
+      name: "Christie Hui",
+      email: "christiewhui@gmail.com",
     },
     from: {
       name: `${name} via Resume on the Web`,

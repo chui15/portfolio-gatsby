@@ -1,26 +1,20 @@
 [
   {
-    "icon": "../images/education/dsi.png",
-    "title": "Dayananda Sagar College of Engineering",
-    "subtitle": "Bachelor's Degree in Computer Science & Engineering",
-    "period": "2015 - 2018"
+    "icon": "../images/education/culogo.png",
+    "title": "University of Colorado Boulder",
+    "subtitle": "Bachelors of Science in Applied Computer Science",
+    "period": "2020 - 2022"
   },
   {
-    "icon": "../images/education/dsi.png",
-    "title": "Dayananda Sagar Institute of Technology",
-    "subtitle": "Diploma in Computer Science & Engineering",
-    "period": "2012 - 2015"
+    "icon": "../images/education/ucsdlogo.png",
+    "title": "University of California, San Diego",
+    "subtitle": "Bachelors of Science in Human Biology",
+    "period": "2015-2019"
   },
   {
-    "icon": "../images/education/jvvp.png",
-    "title": "Jnana Vijnana Vidyapeetha",
-    "subtitle": "High School, CBSE",
-    "period": "2008 - 2011"
-  },
-  {
-    "icon": "../images/education/sams.png",
-    "title": "Sri Aurobindo Memorial School",
-    "subtitle": "Elementary & Primary School, CBSE",
-    "period": "2000 - 2008"
+    "icon": "../images/education/hkulogo.png",
+    "title": "The University of Hong Kong",
+    "subtitle": "Chinese Language and Literature",
+    "period": "2018"
   }
 ]

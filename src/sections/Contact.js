@@ -71,7 +71,7 @@ const Contact = () => {
 
   return (
     <section id="contact">
-      <Heading icon={IoIosPaperPlane} title="Contact" />
+      <Heading icon={IoIosPaperPlane} title="Get in Touch With Me" />
 
       <form className="lg:w-2/3 xl:w-1/2">
         <label htmlFor="name" className="w-4/5 md:w-2/3 flex flex-col">
@@ -82,11 +82,10 @@ const Contact = () => {
             name="name"
             type="text"
             ref={nameRef}
-            placeholder="Regina Phalange"
+            placeholder="Kakashi Hatake"
             onChange={e => setName(e.target.value)}
             className="border-2 border-gray-700 focus:border-gray-300 px-4 py-2 text-lg bg-transparent duration-200 focus:outline-none"
           />
-          <p className="text-xs mt-2">The one where you tell me your name</p>
         </label>
 
         <label htmlFor="email" className="mt-2 w-4/5 md:w-2/3 flex flex-col">
@@ -97,13 +96,10 @@ const Contact = () => {
             name="email"
             type="email"
             ref={emailRef}
-            placeholder="regina@example.com"
+            placeholder="kakashi@hiddenleafvillage.com"
             onChange={e => setEmail(e.target.value)}
             className="border-2 border-gray-700 focus:border-gray-300 px-4 py-2 text-lg bg-transparent duration-200 focus:outline-none"
           />
-          <p className="text-xs mt-2">
-            The one where you tell me how I can contact you back
-          </p>
         </label>
 
         <label htmlFor="message" className="mt-2 flex flex-col">
@@ -118,9 +114,6 @@ const Contact = () => {
             onChange={e => setMessage(e.target.value)}
             className="border-2 border-gray-700 focus:border-gray-300 px-4 py-2 text-lg bg-transparent duration-200 focus:outline-none"
           />
-          <p className="text-xs mt-2">
-            The one where you tell me what I can do to help you
-          </p>
         </label>
 
         <Button

@@ -1,40 +1,33 @@
 [
   {
-    "image": "../images/projects/reactive-resume.png",
-    "title": "Reactive Resume",
-    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever.",
-    "tags": ["opensource", "webdev", "frontend", "react", "tailwindcss"],
-    "website": "https://rxresu.me/",
-    "github": "https://github.com/AmruthPillai/Reactive-Resume/"
+    "image": "../images/projects/bubbletbuddy-card.png",
+    "title": "Bubble.T Buddy",
+    "description": "Bubble.T Buddy is a full-stack mobile PEVN application with CRUD functionality that helps users track their boba consumption.",
+    "tags": ["javascript", "vue.js", "node.js", "express", "postgresql", "aws"],
+    "github": "https://github.com/chui15/bubblet-buddy"
   },
   {
-    "image": "../images/projects/madrasi-bride.png",
-    "title": "Madrasi Bride",
-    "description": "A wedding blog/magazine focused on making the bride and groom's day as memorable as possible by sourcing the best of content.",
-    "tags": ["wordpress", "webdev", "php", "mysql", "seo"],
-    "website": "https://madrasibride.com/"
+    "image": "../images/projects/xuyuan-card.png",
+    "title": "XuYuan (許願) Shop.",
+    "description": "XuYuan (許願, pronounced xu3 yuan4) Shop. is a full-stack LAMP eCommerce shopping application.",
+    "tags": ["javascript", "react.js", "php", "mysql", "aws"],
+    "website": "https://xuyuan.christiehui.com",
+    "github": "https://github.com/chui15/xuyuan"
   },
   {
-    "image": "../images/projects/be-thrifty-today.png",
-    "title": "Be Thrifty Today",
-    "description": "Be Thrifty Today is a simple and secure money management app that helps you track your incomes and expenses.",
-    "tags": ["opensource", "appdev", "flutter", "firebase", "android"],
-    "website": "https://bethrifty.today/",
-    "github": "https://github.com/AmruthPillai/BeThriftyToday"
+    "image": "../images/projects/take-care-card.png",
+    "title": "Take Care",
+    "description": "Take Care is a full-stack mobile LAMP application with CRUD functionality that allows users to track their goals and productivity.",
+    "tags": ["javascript", "react.js", "reactrouter", "php", "mysql", "aws"],
+    "website": "https://drive.google.com/file/d/1qvHUz3sEDxQJp2ikcbKTaTj87OUo44Xl/view?usp=sharing",
+    "github": "https://github.com/chui15/take-care"
   },
   {
-    "image": "../images/projects/words-i-know.png",
-    "title": "All The Words That I Know",
-    "description": "A simple game to test your vocabulary and your memory, with a little bit of fun. Let's see what are all the words that you know?",
-    "tags": ["opensource", "webdev", "gamedev", "react", "tailwindcss"],
-    "website": "https://pillai.xyz/word-game",
-    "github": "https://github.com/AmruthPillai/All-The-Words-That-I-Know"
-  },
-  {
-    "image": "../images/projects/mutual-fund-calculator.png",
-    "title": "Mutual Fund Calculator",
-    "description": "A mutual fund investment calculator which allows you to track your SIP and Lumpsum investments and using real historical NAV data from AMFI.",
-    "tags": ["opensource", "fintech", "scraping", "python", "angular"],
-    "github": "https://github.com/AmruthPillai/MutualFund-Investment-Calculator"
+    "image": "../images/projects/worlds-card.png",
+    "title": "Worlds Memory Match",
+    "description": "Worlds Memory Match is a dynamic matching card game themed after one of my favorite EDM artists, Porter Robinson.",
+    "tags": ["javascript", "jQuery", "html", "css"],
+    "website": "https://worlds.christiehui.com/",
+    "github": "https://github.com/chui15/worlds-memorymatch"
   }
 ]

@@ -3,8 +3,8 @@
 }
 
 .container > a {
-  width: 24px;
-  height: 24px;
+  width: 55px;
+  height: 55px;
   @apply cursor-pointer rounded-full flex justify-center items-center;
 }
 
