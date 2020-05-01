@@ -25,7 +25,7 @@
   {
     "image": "../images/projects/limitlist-card.png",
     "title": "LimitList",
-    "description": "LimitList is a simple front-end bucket CMS app written using React.js functional components and hooks.",
+    "description": "LimitList is a simple front-end CMS app written using React.js functional components and hooks.",
     "tags": [
       "javascript",
       "react.js",
