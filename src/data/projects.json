@@ -23,10 +23,22 @@
     "github": "https://github.com/chui15/take-care"
   },
   {
+    "image": "../images/projects/limitlist-card.png",
+    "title": "LimitList",
+    "description": "LimitList is a simple front-end bucket CMS app written using React.js functional components and hooks.",
+    "tags": [
+      "javascript",
+      "react.js",
+      "firebase"
+    ],
+    "website": "https://limitlist.christiehui.com",
+    "github": "https://github.com/chui15/limitlist"
+  },
+  {
     "image": "../images/projects/worlds-card.png",
     "title": "Worlds Memory Match",
     "description": "Worlds Memory Match is a dynamic matching card game themed after one of my favorite EDM artists, Porter Robinson.",
-    "tags": ["javascript", "jQuery", "html", "css"],
+    "tags": ["javascript", "jquery", "html", "css", "firebase"],
     "website": "https://worlds.christiehui.com/",
     "github": "https://github.com/chui15/worlds-memorymatch"
   }
