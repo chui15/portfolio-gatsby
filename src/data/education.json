@@ -3,18 +3,21 @@
     "icon": "../images/education/culogo.png",
     "title": "University of Colorado Boulder",
     "subtitle": "Bachelors of Science in Applied Computer Science",
+    "coursework": "Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Information Visualization, Data Mining, Design and Analysis of Data and Operating Systems",
     "period": "2020 - 2022"
   },
   {
     "icon": "../images/education/ucsdlogo.png",
     "title": "University of California, San Diego",
     "subtitle": "Bachelors of Science in Human Biology",
+    "coursework": "Relevant Coursework: Molecular and Cellular Biology and Lab, Molecular Biochemistry, Human Physiology, Organic Chemistry, General Chemistry, Physics",
     "period": "2015-2019"
   },
   {
     "icon": "../images/education/hkulogo.png",
     "title": "The University of Hong Kong",
     "subtitle": "Chinese Language and Literature",
+    "coursework": "Relevant Coursework: Advanced Chinese Language, Principles of Buddhism",
     "period": "2018"
   }
 ]
