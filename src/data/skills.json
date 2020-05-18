@@ -1,5 +1,10 @@
 [
   {
+    "icon": "../images/skills/python.png",
+    "name": "Programming & Scripting Languages",
+    "tech": "Python, C++, PHP, Axios, AJAX"
+  },
+  {
     "icon": "../images/skills/web.png",
     "name": "Web Design & Development",
     "tech": "HTML, CSS, Javascript, jQuery, Bootstrap"
@@ -10,14 +15,9 @@
     "tech": "React.js, Vue.js"
   },
   {
-    "icon": "../images/skills/nodejs.png",
-    "name": "Backend Javascript Frameworks",
-    "tech": "Node.js, Express.js"
-  },
-  {
-    "icon": "../images/skills/php.png",
-    "name": "Scripting",
-    "tech": "PHP, Axios, AJAX"
+    "icon": "../images/skills/reactlogo.png",
+    "name": "Javascript Frameworks",
+    "tech": "React.js, Vue.js, GatsbyJS, Node.js, Express.js"
   },
   {
     "icon": "../images/skills/database.png",
