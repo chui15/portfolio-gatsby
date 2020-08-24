@@ -72,12 +72,6 @@ module.exports = {
         path: path.join(__dirname, `src`, `images`),
       },
     },
-    {
-      resolve: `gatsby-source-dev`,
-      options: {
-        username: `amruthpillai`,
-      },
-    },
     `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -92,12 +86,6 @@ module.exports = {
       options: {
         name: `data`,
         path: path.join(__dirname, `src`, `data`),
-      },
-    },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `amruthpillai`,
       },
     },
     {
