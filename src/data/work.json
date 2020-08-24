@@ -1,5 +1,11 @@
 [
   {
+    "icon": "../images/work/HonLogo.png",
+    "title": "Hon Media SD",
+    "subtitle": "Web Developer",
+    "period": "Aug '20 - Present"
+  },
+  {
     "icon": "../images/work/demlogo.png",
     "title": "Delta Epsilon Mu, Inc.",
     "subtitle": "Frontend Web Developer",

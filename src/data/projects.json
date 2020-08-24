@@ -1,18 +1,11 @@
 [
   {
-    "image": "../images/projects/bubbletbuddy-card.png",
-    "title": "Bubble.T Buddy",
-    "description": "Bubble.T Buddy is a full-stack mobile PEVN application with CRUD functionality that helps users track their boba consumption.",
-    "tags": ["javascript", "vue.js", "node.js", "express", "postgresql", "aws"],
-    "github": "https://github.com/chui15/bubblet-buddy"
-  },
-  {
-    "image": "../images/projects/xuyuan-card.png",
-    "title": "XuYuan (許願) Shop.",
-    "description": "XuYuan (許願, pronounced xu3 yuan4) Shop. is a full-stack LAMP eCommerce shopping application.",
-    "tags": ["javascript", "react.js", "php", "mysql", "aws"],
-    "website": "https://xuyuan.christiehui.com",
-    "github": "https://github.com/chui15/xuyuan"
+    "image": "../images/projects/honmedia.png",
+    "title": "Hon Media SD",
+    "description": "Hon Media SD is a static site created using GatsbyJS and React.js and styled with Tailwind CSS to highlight the services offered by an independent consulting company.",
+    "tags": ["gatsby.js", "react.js", "tailwindcss", "netlify"],
+    "website": "https://hon-media.com",
+    "github": "https://github.com/chui15/hon-media-sd"
   },
   {
     "image": "../images/projects/take-care-card.png",
@@ -31,7 +24,7 @@
       "jquery",
       "html",
       "css",
-      "firebase"
+      "netlify"
     ],
     "website": "https://worlds.christiehui.com/",
     "github": "https://github.com/chui15/worlds-memorymatch"
@@ -47,5 +40,13 @@
     ],
     "website": "https://limitlist.christiehui.com",
     "github": "https://github.com/chui15/limitlist"
+  },
+  {
+    "image": "../images/projects/xuyuan-card.png",
+    "title": "XuYuan (許願) Shop.",
+    "description": "XuYuan (許願, pronounced xu3 yuan4) Shop. is a full-stack LAMP eCommerce shopping application.",
+    "tags": ["javascript", "react.js", "php", "mysql", "netlify"],
+    "website": "https://xuyuan.christiehui.com",
+    "github": "https://github.com/chui15/xuyuan"
   }
 ]

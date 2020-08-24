@@ -12,7 +12,7 @@
   {
     "icon": "../images/skills/reactlogo.png",
     "name": "Frontend Javascript Frameworks",
-    "tech": "React.js, Vue.js, GatsbyJS"
+    "tech": "React.js, GatsbyJS"
   },
   {
     "icon": "../images/skills/nodejs.png",
@@ -22,7 +22,7 @@
   {
     "icon": "../images/skills/database.png",
     "name": "Database Management",
-    "tech": "MySQL, PostgreSQL"
+    "tech": "MySQL"
   },
   {
     "icon": "../images/skills/figmalogo.png",

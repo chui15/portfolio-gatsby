@@ -8,7 +8,7 @@ import ThemeContext from "../context/ThemeContext";
 
 const Work = () => {
   const { dark } = useContext(ThemeContext);
-  const [max, setMax] = useState(2);
+  const [max, setMax] = useState(3);
   const data = useStaticQuery(graphql`
     {
       allWorkJson {
