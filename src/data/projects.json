@@ -33,7 +33,7 @@
     "image": "../images/projects/xuyuan-card.png",
     "title": "XuYuan (許願) Shop.",
     "description": "XuYuan (許願, pronounced xu3 yuan4) Shop. is a full-stack LAMP eCommerce shopping application.",
-    "tags": ["javascript", "react.js", "php", "mysql", "netlify"],
+    "tags": ["javascript", "react.js", "php", "mysql", "aws"],
     "website": "https://xuyuan.christiehui.com",
     "github": "https://github.com/chui15/xuyuan"
   },
