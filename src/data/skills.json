@@ -2,7 +2,7 @@
   {
     "icon": "../images/skills/python.png",
     "name": "Programming & Scripting Languages",
-    "tech": "Python, C++, PHP"
+    "tech": "Python, C++, PHP, Scala"
   },
   {
     "icon": "../images/skills/web.png",
@@ -12,7 +12,7 @@
   {
     "icon": "../images/skills/reactlogo.png",
     "name": "Frontend Javascript Frameworks",
-    "tech": "React.js, GatsbyJS"
+    "tech": "React.js, GatsbyJS, PolymerJS"
   },
   {
     "icon": "../images/skills/nodejs.png",
@@ -37,6 +37,6 @@
   {
     "icon": "../images/skills/seo.png",
     "name": "Tools",
-    "tech": "Postman, DBDesigner"
+    "tech": "Postman, DBDesigner, Kibana"
   }
 ]

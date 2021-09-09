@@ -1,20 +1,26 @@
 [
   {
+    "icon": "../images/work/attlogo.png",
+    "title": "AT&T / DIRECTV",
+    "subtitle": "Software Engineer Intern",
+    "period": "June 2021 - August 2021"
+  },
+  {
     "icon": "../images/work/HonLogo.png",
     "title": "Hon Media SD",
     "subtitle": "Web Developer",
-    "period": "Aug '20 - Present"
+    "period": "August 2020 - June 2021"
   },
   {
     "icon": "../images/work/demlogo.png",
     "title": "Delta Epsilon Mu, Inc.",
     "subtitle": "Frontend Web Developer",
-    "period": "March '20 - Present"
+    "period": "March 2020 - March 2021"
   },
   {
     "icon": "../images/work/kaplanlogo.png",
     "title": "Kaplan Test Prep, Inc.",
     "subtitle": "Student Brand Ambassador",
-    "period": "April '18 - June '19"
+    "period": "April 2018 - June 2019"
   }
 ]

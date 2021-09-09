@@ -36,17 +36,5 @@
     "tags": ["javascript", "react.js", "php", "mysql", "aws"],
     "website": "https://xuyuan.christiehui.com",
     "github": "https://github.com/chui15/xuyuan"
-  },
-  {
-    "image": "../images/projects/limitlist-card.png",
-    "title": "LimitList",
-    "description": "LimitList is a simple front-end CMS app written using React.js functional components and hooks.",
-    "tags": [
-      "javascript",
-      "react.js",
-      "netlify"
-    ],
-    "website": "https://limitlist.christiehui.com",
-    "github": "https://github.com/chui15/limitlist"
   }
 ]

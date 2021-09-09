@@ -3,15 +3,8 @@
     "icon": "../images/education/culogo.png",
     "title": "University of Colorado Boulder",
     "subtitle": "Bachelors of Science in Applied Computer Science",
-    "coursework": "Relevant Coursework: Discrete Structures, Data Structures and Algorithms, Algorithms, Object-Oriented Programming, Information Visualization, Data Mining, Design and Analysis of Data and Operating Systems",
+    "coursework": "Relevant Coursework: Discrete Structures, Data Structures and Algorithms, Algorithms, Object-Oriented Programming, Information Visualization, Data Mining, Design and Analysis of Data and Operating Systems, Design and Analysis of Database Systems, Principles of Programming Languages, Data Science with Probability and Statistics",
     "period": "2020 - 2022"
-  },
-  {
-    "icon": "../images/education/ucsdlogo.png",
-    "title": "University of California, San Diego",
-    "subtitle": "Bachelors of Science in Human Biology",
-    "coursework": "Relevant Coursework: Molecular and Cellular Biology and Lab, Molecular Biochemistry, Genetics, Genome Diversity and Dynamics, Human Physiology, Organic Chemistry, General Chemistry, Physics",
-    "period": "2015-2019"
   },
   {
     "icon": "../images/education/hkulogo.png",
